@@ -1,0 +1,1 @@
+Embora o desafio mencione Azure ChatGPT, optei por utilizar Ollama com LangChain para executar os modelos localmente. Isso permite maior controle, privacidade e independência de serviços externos, mantendo todos os conceitos e funcionalidades exigidos no desafio.

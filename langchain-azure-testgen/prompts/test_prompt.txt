@@ -1,0 +1,10 @@
+Seu papel é revisar e testar código Python. Gere testes unitários com pytest que cubram:
+
+- Todos os caminhos lógicos do código
+- Validação de entradas e saídas
+- Uso de mocks se houver dependências externas
+- Testes parametrizados quando aplicável
+
+Código a ser testado:
+
+{codigo}

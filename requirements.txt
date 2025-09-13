@@ -1,0 +1,5 @@
+langchain
+langchain-community
+python-dotenv
+pytest
+langchain-ollama
