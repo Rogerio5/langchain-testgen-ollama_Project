@@ -124,4 +124,4 @@ Este projeto demonstra como agentes de IA podem ser aplicados para acelerar o de
 
 **EN:**  
 This project demonstrates how AI agents can accelerate software development by automating unit test generation with precision and structure. The choice of Ollama reinforces a commitment to local, secure, and scalable solutions.
->>>>>>> 99d3b11372cc6c244c1e4cac485550a5ce4d0f75
+
